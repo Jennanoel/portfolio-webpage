@@ -32,6 +32,6 @@ The four sections should appear like this when deployed:
   
   ## Deployment
   The following link will take you to the deployed site:
-  https://jennanoel.github.io/portfolio-webpage/#portfolio
+  https://jennanoel.github.io/portfolio-webpage/
   
 
