@@ -94,7 +94,7 @@ html{
     box-sizing: border-box;
    
 }
-#Calc img{
+.gallery #Calc img{
     width: 500px;
     height: 440px;
     margin: 10px;
