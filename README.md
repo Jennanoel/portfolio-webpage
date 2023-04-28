@@ -10,7 +10,7 @@ The navigation bar at the top will scroll down to the section you click on. The 
 ## Visuals
 The four sections should appear like this when deployed:
 <img
-  src="potfolio-home.png"
+  src="portfolio-home.png"
   alt="portfolio-home"
   title="Portfolio"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
@@ -31,5 +31,7 @@ The four sections should appear like this when deployed:
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
   ## Deployment
+  The following link will take you to the deployed site:
+  https://jennanoel.github.io/portfolio-webpage/#portfolio
   
 
