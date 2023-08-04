@@ -108,6 +108,7 @@ html{
     font-weight: 500;
 }
 .gallery p{
+    text-emphasis: none;
     text-decoration: none;
     color: white;
     font-size: 12px;
